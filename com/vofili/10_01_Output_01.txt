@@ -1,0 +1,3 @@
+explicit is better than implicit
+loud is better than silent
+pythonic is better than verbose
